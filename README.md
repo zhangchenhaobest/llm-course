@@ -1,3 +1,29 @@
+# llm-course
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+大模型入门课程，含学习路线图与 Colab 笔记本。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 <img src="img/banner.png" alt="LLM Course">
   <p align="center">
